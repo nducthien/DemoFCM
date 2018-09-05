@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578330281330",
+    "firebase_url": "https://demofcm-3ab3d.firebaseio.com",
+    "project_id": "demofcm-3ab3d",
+    "storage_bucket": "demofcm-3ab3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578330281330:android:aa2067b8db072098",
+        "android_client_info": {
+          "package_name": "com.tea.demofcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578330281330-6bor38dd9lg6chlgidf5iv8f8ija1ckc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tea.demofcm",
+            "certificate_hash": "0abcc14aa3c301a73768424e09311dc4691c0d0c"
+          }
+        },
+        {
+          "client_id": "578330281330-qn6kit7buvcivv1odsoljf3bp4pu2ger.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh4-gZzTPoWB7SCt1ZzfjdbGeFaoEN8zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578330281330-qn6kit7buvcivv1odsoljf3bp4pu2ger.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
